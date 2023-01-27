@@ -1,0 +1,104 @@
+commit 839d99d11e02d186e48338ee904c202db36b4e62
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Fri Jan 27 15:48:30 2023 -0600
+
+    agregando 2 parrafos
+
+commit 5af4f8f6c192b9af9047454ec0ad6f16c810a501
+Merge: 4e0a44f 3e691a6
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Thu Jan 26 12:34:28 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 4e0a44f362df334a113f4c697613ee0bb2d1d2c3
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Wed Jan 18 12:00:29 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 3e691a6cfb37ddfa9493c537fa0c63db38967a58
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Wed Jan 18 12:00:29 2023 -0600
+
+    Agregando las estaciones del año
+
+commit 021d2ea0a2a991aecfafc9566711a8495e9d35a3
+Merge: afed33b 90b5655
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Wed Jan 18 11:53:09 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 90b56554ae7062aaa2138c32c180e7cb0bcd4f8b
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Wed Jan 18 11:36:28 2023 -0600
+
+    Agregando index.js al index.html
+
+commit afed33b83b006910dd01b1434b84a17a89872a4c
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Wed Jan 18 11:29:18 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 994ed6baa86082b9945e43b4309dfffc2982a26e
+Merge: 63fcecc 75bfbee
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Tue Jan 17 12:20:08 2023 -0600
+
+    Merge branch 'js'
+
+commit 75bfbee52eb8e4c5e4293b3380be8e5c60c84288
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Tue Jan 17 12:00:05 2023 -0600
+
+    Creando index.js
+
+commit 63fcecc0fef528cc5c23568a35b91e28a0df176d
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Tue Jan 17 11:51:19 2023 -0600
+
+    Creando style.css
+
+commit 3c621b9789d024f5685546a4ec648caa3983c5a7
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Tue Jan 17 11:40:00 2023 -0600
+
+    Creando index.html
+
+commit 5e16f0f89738a713cd4dde66664c931e7937e97c
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Thu Jan 12 12:24:12 2023 -0600
+
+    Ignorando  archivos .exe
+
+commit e4fd7b518ca46c8c076e5bb0f7ede768e514dde8
+Author: Manuel-dev97 <113222211+Manuel-dev97@users.noreply.github.com>
+Date:   Thu Jan 12 11:26:55 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 6b9bc461c235cda528073553f007906a218136b9
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Wed Jan 11 12:35:19 2023 -0600
+
+    Este el curto contenido del archivo readme
+
+commit 93a87c25b16ae47cb2294686a3edfe425f2f04c8
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Wed Jan 11 12:32:33 2023 -0600
+
+    Agregando mas contenido al archivo readme
+
+commit 222b0dc021296f5c0c752cd5cf4aba7c3010853b
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Tue Jan 10 12:47:19 2023 -0600
+
+    Agregando contenido inicial al  archivo README
+
+commit 4892c6d1a9f27fa5354413658876d9a130a8bb45
+Author: Manuel Tamayo <al15020032@itsa.edu.mx>
+Date:   Tue Jan 10 12:42:37 2023 -0600
+
+    Primer commit
